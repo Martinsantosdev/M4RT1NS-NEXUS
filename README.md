@@ -1,5 +1,5 @@
 
-⚡ M4RT1NS.exe NEXUS 8.0 — MOBILE DIAGNOSTICS ███╗ ███╗██╗ ██╗██████╗ ████████╗ ████╗ ████║██║ ██║██╔══██╗╚══██╔══╝ ██╔████╔██║███████║██╔══██╗ ██║ ██║╚██╔╝██║██║ ██║██║ ██║ ██║ ██║ ╚═╝ ██║██║ ██║██║ ██║ ██║ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ 
+⚡ M4RT1NS.exe NEXUS 8.0 — MOBILE DIAGNOSTICS  
 
 Diagnóstico local • Monitoramento • Tecnologia
 
@@ -17,7 +17,9 @@ O projeto foi pensado para utilizar a biblioteca padrão do Python, sem bibliote
 
 Abra o Termux e digite:
 
-cd ~/mobile-dashboard python dashboard.py 
+cd ~/mobile-dashboard
+
+python dashboard.py 
 
 Se necessário, utilize:
 
