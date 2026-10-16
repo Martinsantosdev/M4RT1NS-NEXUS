@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+backups/
+reports/
+*.backup.*
+dashboard_backup*.py
